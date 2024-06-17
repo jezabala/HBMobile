@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "166517260059",
+    "project_id": "heartbeatsmobile-10858",
+    "storage_bucket": "heartbeatsmobile-10858.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166517260059:android:b9d9a6f55f5f38ba771dbe",
+        "android_client_info": {
+          "package_name": "com.teg.myheartbeats"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCON9W6JiiFfqSlAYSpAz0sah2rRvWrQ8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
